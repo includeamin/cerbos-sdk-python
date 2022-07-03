@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "cerbos"
+name = "glearn24_cerbos"
 version = "0.3.0"
 description = ""
 authors = ["Amin Jamal <includeamin@gmail.com>"]

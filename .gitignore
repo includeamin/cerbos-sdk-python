@@ -6,3 +6,4 @@ dist/
 *.pyc
 .pdm.toml
 .idea
+*__pycache__*
